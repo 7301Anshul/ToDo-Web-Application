@@ -4,7 +4,7 @@ It's a great Application for managing time that enables you to lay out everythin
 
 In this Project I have used Java, JSP, Servlet and For database connection i have used Hybernate.
 
-1.In this Application we can Add Title and Content of the List and save them to the database. 
+      1.In this Application we can Add Title and Content of the List and save them to the database. 
 
 2. We can Edit the Post.
 

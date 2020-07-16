@@ -22,7 +22,7 @@ Technologies used:-
     Sql/MySql
 
     
-   Users Have Following Access for this online store site:-
+   Users Have Following Access for this Project:-
    
     User can Add the Title.
     User can add the content.

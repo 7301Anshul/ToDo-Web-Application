@@ -22,8 +22,20 @@ Technologies used:-
     Sql/MySql
 
     
+   Users Have Following Access for this online store site:-
    
+    User can Add the Title.
+    User can add the content.
+    User can Edit the Contnt and Title
+    User can Update the Stored Todo's .
+    
 
-1.In this Application we can Add Title and Content of the List and save them to the database.    2. We can Edit the Post.   3. We can delete the Post.
 
-Thanks 
+
+
+
+"Suggestions and project Improvements are Invited!"
+
+Thanks a lot
+Project Leader
+Anshul Jain 

@@ -5,7 +5,7 @@ It's a great Application for managing time that enables you to lay out everythin
 
 Technologies used:-
 
-   1. Front-End Development:
+ 1. Front-End Development:
 
     Html
     Css    
